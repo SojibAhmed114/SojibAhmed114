@@ -47,8 +47,6 @@ leetcode: https://leetcard.jacoblin.cool/ -->
 
 
 
-![snake animation](https://github.com/<seu sojibAhmed114>/<seu sojibAhmed114>/blob/output/github-contribution-grid-snake2.svg)
-
 
 
 
