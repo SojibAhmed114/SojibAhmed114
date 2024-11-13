@@ -60,6 +60,7 @@ ________________________________________________________________________________
 
 
 # My vs code themes
-## midnight-navy-theme
+##### demo themes
+- Midnight Navy - Moonlight Mist
 ![image alt](https://github.com/SojibAhmed114/midnight-navy-theme/blob/d914d1f49aa4cf661221b1b0627447fc31f2e197/themes.gif)
 
